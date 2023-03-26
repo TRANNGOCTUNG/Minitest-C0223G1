@@ -1,7 +1,5 @@
-package minitest;
+package minitest3Bai;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Exercise {
@@ -12,7 +10,7 @@ public class Exercise {
         System.out.println("""
                 Exercise:
                 1.Hiển thị các số nguyên tố nhỏ hơn n.
-                2.Viết chương trình tìm số lớn nhat của mảng, tính tổng các phần tử trong mảng.
+                2.Viết chương trình tìm số lớn nhất của mảng, tính tổng các phần tử trong mảng.
                 3.Tạo độ dài nhập vào mảng từ bàn phím, nhập giá trị rồi in ra màn hình.
                 0.Thoát.
                 """);
